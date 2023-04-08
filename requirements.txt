@@ -1,0 +1,3 @@
+asyncio==3.4.3
+pybalboa==0.13
+slack-sdk==3.8.0
